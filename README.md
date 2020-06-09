@@ -8,8 +8,8 @@
 　　博客地址：https://home.cnblogs.com/u/2940500426yingxin/
 
 边信哲：男，现就读于石家庄铁道大学软件工程系，大学二年级，正在努力学习各种知识，希望以后能为祖国的建设添砖加瓦。
-
 　　博客地址：https://www.cnblogs.com/wind-and-sky/
+  
   ---
 # APP产品介绍
 ## 1、解决的用户需求
